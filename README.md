@@ -5,4 +5,4 @@ echo '* Список всех коммитов показывает команд
 echo '- [Как просмотреть историю](./log_help.md)' >> README.md
 echo >> reset_help.md
 Добавлен файл log_help
-В отслеживаемый файлы добавлен reset_help.md
+В отслеживаемый файлы добавлен reset_help.md"# git_intro" 
